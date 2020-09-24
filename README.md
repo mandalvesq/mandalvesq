@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, I'm Amanda Quinto 👋
 
-<!--
-**mandalvesq/mandalvesq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on AWS
+- 🌱 I’m currently learning Data Analytics and Machine Learning
+- 💬 Ask me about AWS, Containers and Microservices
+- ⚡ Fun fact: I'm passionate about Volkswagen Kombi and SCCP. 
+
+<div>
+  <div>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=mandalvesq&show_icons=true&theme=dracula&count_private=true" />
+  </div>
+  <div>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandalvesq&layout=compact&theme=dracula&count_private=true" />
+  </div>
+</div>
